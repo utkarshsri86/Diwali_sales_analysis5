@@ -1,2 +1,3 @@
 # Diwali_sales_analysis5
-this is my first Git repostory 
+I take some data and do analysis of that data by using python and their library 
+
